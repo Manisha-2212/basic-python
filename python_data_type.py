@@ -46,7 +46,7 @@ print("list of integer:", list1)
 print('type of list is:', type(list1))
 print('No. of elements in list1 is:', len(list1))
 
-list2 = [1,2,3,'MIT']
+list2 = [1,2,3,'M']
 print('list of mixed data types:', list2)
 print('type of list2 is:', type(list2))
 print('No. of elements in list2 is:', len(list2))
@@ -59,7 +59,7 @@ print("type of empty_dict is:", type(empty_dict))
 print('No. of element in empty_dict is:', len(empty_dict))
 
 
-d1 = {'Name': 'Manisha', 'college': 'MIT'}
+d1 = {'Name': 'Manisha', 'college': 'VJTI'}
 print("The elements of dictionary1 is:", d1)
 print("type of d1 is:", type(d1))
 print("number of elements are:", len(d1))
@@ -76,7 +76,7 @@ print("The elements in set1 : ", set1)
 print("type of set1 is:", type(set1))
 print("number of elements in set1 are: ", len(set1))
 
-set2 = set(['MIT', 'ADT'])
+set2 = set(['VJTI', 'MUMBAI'])
 print("The elements in set2 : ", set2)
 print("type of set2 is:", type(set2))
 print("number of elements in set2 are: ", len(set2))
